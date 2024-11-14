@@ -1,4 +1,2 @@
-#ignore folder vscode
-.vscode
-#ignore target
-target/
+/.vscode
+/target/
